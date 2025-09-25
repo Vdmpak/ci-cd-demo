@@ -1,0 +1,5 @@
+- Forked and cloned a GitLab repo with CI setup.  
+- Modified and pushed script to trigger a CI job.  
+- Retrieved my unique hash from the CI job output.  
+- Created a script to print this hash.  
+- Learned how GitLab CI pipelines work.
